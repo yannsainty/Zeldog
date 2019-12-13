@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Zeldog/static/css/main.af15300f.chunk.css",
-    "main.js": "/Zeldog/static/js/main.e32f4086.chunk.js",
-    "main.js.map": "/Zeldog/static/js/main.e32f4086.chunk.js.map",
+    "main.css": "/Zeldog/static/css/main.b1e661f1.chunk.css",
+    "main.js": "/Zeldog/static/js/main.eb94a67a.chunk.js",
+    "main.js.map": "/Zeldog/static/js/main.eb94a67a.chunk.js.map",
     "runtime-main.js": "/Zeldog/static/js/runtime-main.dd286bee.js",
     "runtime-main.js.map": "/Zeldog/static/js/runtime-main.dd286bee.js.map",
-    "static/js/2.d4f63c77.chunk.js": "/Zeldog/static/js/2.d4f63c77.chunk.js",
-    "static/js/2.d4f63c77.chunk.js.map": "/Zeldog/static/js/2.d4f63c77.chunk.js.map",
+    "static/js/2.6e84e58a.chunk.js": "/Zeldog/static/js/2.6e84e58a.chunk.js",
+    "static/js/2.6e84e58a.chunk.js.map": "/Zeldog/static/js/2.6e84e58a.chunk.js.map",
     "index.html": "/Zeldog/index.html",
-    "precache-manifest.e532b628e268303cd22cdcd4cc782f15.js": "/Zeldog/precache-manifest.e532b628e268303cd22cdcd4cc782f15.js",
+    "precache-manifest.a9071ca64521c5fab016af65f471c1e1.js": "/Zeldog/precache-manifest.a9071ca64521c5fab016af65f471c1e1.js",
     "service-worker.js": "/Zeldog/service-worker.js",
-    "static/css/main.af15300f.chunk.css.map": "/Zeldog/static/css/main.af15300f.chunk.css.map",
+    "static/css/main.b1e661f1.chunk.css.map": "/Zeldog/static/css/main.b1e661f1.chunk.css.map",
     "static/media/App.scss": "/Zeldog/static/media/bg.3d026e27.png",
     "static/media/bunny-hop-spritesheet.png": "/Zeldog/static/media/bunny-hop-spritesheet.90b7be82.png",
     "static/media/coin.gif": "/Zeldog/static/media/coin.154a590f.gif",
@@ -29,8 +29,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.dd286bee.js",
-    "static/js/2.d4f63c77.chunk.js",
-    "static/css/main.af15300f.chunk.css",
-    "static/js/main.e32f4086.chunk.js"
+    "static/js/2.6e84e58a.chunk.js",
+    "static/css/main.b1e661f1.chunk.css",
+    "static/js/main.eb94a67a.chunk.js"
   ]
 }
