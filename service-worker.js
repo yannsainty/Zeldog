@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Zeldog/precache-manifest.8c6cd899017fb8e37445e7ed8f66d665.js"
+  "/Zeldog/precache-manifest.59c3e5136fdd40fae87ad3053d1c3751.js"
 );
 
 self.addEventListener('message', (event) => {

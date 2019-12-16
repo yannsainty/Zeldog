@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "abb28aeb8fe2483baff9daafe084b921",
+    "revision": "21b79b671dbb2a55a0932514f4588d87",
     "url": "/Zeldog/index.html"
   },
   {
-    "revision": "6ff9a56e0d63cab8db67",
+    "revision": "4fe5bc9e898ac2058359",
     "url": "/Zeldog/static/css/main.b1e661f1.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Zeldog/static/js/2.6e84e58a.chunk.js"
   },
   {
-    "revision": "6ff9a56e0d63cab8db67",
-    "url": "/Zeldog/static/js/main.0a6bfcf8.chunk.js"
+    "revision": "4fe5bc9e898ac2058359",
+    "url": "/Zeldog/static/js/main.a27655e2.chunk.js"
   },
   {
     "revision": "3cbe931bc7b8dc7063ab",

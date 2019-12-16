@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Zeldog/static/css/main.b1e661f1.chunk.css",
-    "main.js": "/Zeldog/static/js/main.0a6bfcf8.chunk.js",
-    "main.js.map": "/Zeldog/static/js/main.0a6bfcf8.chunk.js.map",
+    "main.js": "/Zeldog/static/js/main.a27655e2.chunk.js",
+    "main.js.map": "/Zeldog/static/js/main.a27655e2.chunk.js.map",
     "runtime-main.js": "/Zeldog/static/js/runtime-main.dd286bee.js",
     "runtime-main.js.map": "/Zeldog/static/js/runtime-main.dd286bee.js.map",
     "static/js/2.6e84e58a.chunk.js": "/Zeldog/static/js/2.6e84e58a.chunk.js",
     "static/js/2.6e84e58a.chunk.js.map": "/Zeldog/static/js/2.6e84e58a.chunk.js.map",
     "index.html": "/Zeldog/index.html",
-    "precache-manifest.8c6cd899017fb8e37445e7ed8f66d665.js": "/Zeldog/precache-manifest.8c6cd899017fb8e37445e7ed8f66d665.js",
+    "precache-manifest.59c3e5136fdd40fae87ad3053d1c3751.js": "/Zeldog/precache-manifest.59c3e5136fdd40fae87ad3053d1c3751.js",
     "service-worker.js": "/Zeldog/service-worker.js",
     "static/css/main.b1e661f1.chunk.css.map": "/Zeldog/static/css/main.b1e661f1.chunk.css.map",
     "static/media/App.scss": "/Zeldog/static/media/bg.3d026e27.png",
@@ -31,6 +31,6 @@
     "static/js/runtime-main.dd286bee.js",
     "static/js/2.6e84e58a.chunk.js",
     "static/css/main.b1e661f1.chunk.css",
-    "static/js/main.0a6bfcf8.chunk.js"
+    "static/js/main.a27655e2.chunk.js"
   ]
 }
